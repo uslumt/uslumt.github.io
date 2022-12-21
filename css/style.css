@@ -104,6 +104,9 @@ a {
   font-family: "Montserrat", sans-serif;
 }
 
+.typed-strings{
+  color: green;
+}
 @keyframes typing {
   from { width: 0 }
   to { width: 100% }
@@ -114,6 +117,7 @@ a {
   from, to { border-color: transparent }
   50% { border-color: orange }
 }
+
 .home .subtitle {
   font-weight: 600;
 }
@@ -126,9 +130,7 @@ a {
   text-decoration: underline;
 }
 
-.home .siema img {
-  width: 50%;
-}
+
 
 .about {
   margin-top: 100px;
