@@ -131,7 +131,7 @@ a {
 
 	h2 {
 		padding: 10px;
-		border-bottom: 5px solid #7c00c9;
+		border-bottom: 5px solid #007836;
 		display: inline-block;
 	}
 
@@ -145,7 +145,7 @@ a {
 
 		.iconify {
 			font-size: 100px;
-			color: #7c00c9;
+			color: #007836;
 		}
 
 		p {
@@ -160,17 +160,17 @@ a {
 	}
 }
 
-.skills {
+.blog {
 	margin-top: 100px;
 	text-align: center;
 
 	h2 {
 		padding: 10px;
-		border-bottom: 5px solid #7c00c9;
+		border-bottom: 5px solid #007836;
 		display: inline-block;
 	}
 
-	.skill {
+	.blog {
 		img {
 			height: 100px;
 			padding-right: 20px;
@@ -191,7 +191,7 @@ a {
 
 	h2 {
 		padding: 10px;
-		border-bottom: 5px solid #7c00c9;
+		border-bottom: 5px solid #007836;
 		display: inline-block;
 	}
 
@@ -326,7 +326,7 @@ a {
 
 	h2 {
 		padding: 10px;
-		border-bottom: 5px solid #7c00c9;
+		border-bottom: 5px solid #007836;
 		display: inline-block;
 	}
 
@@ -370,7 +370,7 @@ a {
 
 			input:focus,
 			textarea:focus {
-				border: 1px solid #7c00c9;
+				border: 1px solid #007836;
 				background-color: #7c00c913;
 			}
 		}
@@ -380,7 +380,7 @@ a {
 			outline: none;
 			border-radius: 2px;
 			padding: 12px 24px;
-			background-color: #7c00c9;
+			background-color: #007836;
 			color: #fff;
 			font-size: inherit;
 			font-weight: 600;
@@ -425,26 +425,13 @@ a {
 		opacity: 0.7;
 	}
 
-	.fa-facebook {
-		background: #3b5998;
-		color: white;
-	}
-
-	.fa-twitter {
-		background: #55acee;
-		color: white;
-	}
 
 	.fa-linkedin {
 		background: #007bb5;
 		color: white;
 	}
 
-	.fa-instagram {
-		background: #9c2dbb;
-		color: white;
-	}
-
+	
 	.fa-github {
 		background: #212529;
 		color: white;
