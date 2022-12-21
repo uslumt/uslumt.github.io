@@ -23,12 +23,12 @@ a {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #7c00c9;
+  background: #00d55e;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #480274;
+  background: #00d55e;
 }
 
 /* Scrollbar -- end */
