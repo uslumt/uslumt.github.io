@@ -178,7 +178,7 @@ a {
 
 .blog h2 {
   padding: 10px;
-  border-bottom: 5px solid #7c00c9;
+  border-bottom: 5px solid #007836;
   display: inline-block;
 }
 
@@ -395,7 +395,7 @@ a {
   outline: none;
   border-radius: 2px;
   padding: 12px 24px;
-  background-color: #7c00c9;
+  background-color: #007836;
   color: #fff;
   font-size: inherit;
   font-weight: 600;
